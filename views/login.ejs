@@ -1,0 +1,46 @@
+
+  <title>Login</title>
+  </head>
+
+  <body style="overflow: hidden;">
+      <div class="row" style="height:100vh;">
+          <div id="right-section" class="col">
+
+              <div id="login-area">
+                  <h2>
+                      Let's <small class="text-muted">DISCOVER</small>
+                  </h2>
+                  <form action="/users/login" method="POST">
+                    <div class="form-group">
+                      <label for="email">Email</label>
+                      <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        class="form-control"
+                        placeholder="Enter Email"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <label for="password">Password</label>
+                      <input
+                        type="password"
+                        id="password"
+                        name="password"
+                        class="form-control"
+                        placeholder="Enter Password"
+                      />
+                    </div>
+                    <button type="submit">Login</button>
+                  </form>
+                  <p class="lead mt-4">
+                    No Account? <a href="/users/register">Register</a>
+                  </p>
+              </div>
+              <div id="login-footer">
+                <i>Made with <font color="red">♥</font> by <a href="https://github.com/harsh-gulati-14">HARSH GULATI </a></i>
+              </div>
+          </div>
+      </div>
+
+      
