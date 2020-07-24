@@ -28,5 +28,8 @@ which contains the following operatins
     2. A Link To Helplines Numbers for emergency
     3. A Link to the Covid-19 Map (which I created as a side project)
     4. A Statistic Table which visualize the data of corona virus cases.
+# MADE WITH  :heart: BY HARSH GULATI 19BCT0210
+### DO CONTACT FOR ANY QUERIES 
+### CONTACT--9953961096 , [LINKEDIN](https://www.linkedin.com/in/harsh-gulati-005585ab/)
+#### COVICT_VIIT
 
-# COVICT_VIIT
