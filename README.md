@@ -1,4 +1,4 @@
-# COVICT FOR VIIT
+# Sahayak
 This is the project made as the Backend Task for the recruitment in VIIT 
 To access this project please follw the guidelines properly.
 ### Usage
@@ -31,5 +31,4 @@ which contains the following operatins
 # MADE WITH  :heart: BY HARSH GULATI 19BCT0210
 ### DO CONTACT FOR ANY QUERIES 
 ### CONTACT--9953961096 , [LINKEDIN](https://www.linkedin.com/in/harsh-gulati-005585ab/)
-#### COVICT_VIIT
 
